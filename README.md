@@ -25,4 +25,7 @@ Tools and Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChirravuri&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/AdityaChirravuri/github-readme-stats)
 
 
+
+GitHub Stats: 
+---
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaChirravuri)](https://github.com/AdityaChirravuri/github-readme-stats)
