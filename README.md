@@ -7,6 +7,7 @@
 Connect with me
 ---
 <a href = "https://www.facebook.com/aditya.chirravuri.92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Aditya Chirravuri" height="30" width="40" /> </a>
+<a href= "https://discord.gg/#8746" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Aditya Subrahmanya#8746" height="30" width="40" /></a></a>
 <a href="https://www.linkedin.com/in/aditya-chirravuri-36036b189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aditya Chirravuri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vss_aditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vss_aditya" height="30" width="40" /></a>
 <a href= "https://www.hackerearth.com/@adityachirravuri17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="adityachirravuri17" height="30" width="40" /></a></a>
