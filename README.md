@@ -12,6 +12,8 @@ Connect with me
 <a href="https://www.hackerrank.com/vss_aditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vss_aditya" height="30" width="40" /></a>
 <a href= "https://www.hackerearth.com/@adityachirravuri17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="adityachirravuri17" height="30" width="40" /></a></a>
 <a href= "https://www.codechef.com/users/aditya_89_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="aditya_89_2001" height="30" width="40" /></a></a>
+<a href= "https://codeforces.com/profile/VSSAditya_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="VSSAditya_08" height="30" width="40" /></a></a>
+
 
 
 
