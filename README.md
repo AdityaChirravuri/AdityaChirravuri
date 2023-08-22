@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya Chirravuri
-- 👀 I’m interested in Solving Puzzles
+- 👀 I’m interested in Solving Puzzles, Research
 - 🌱 I’m currently learning Data structures and Algorithms
 
 - I'm open for internship
